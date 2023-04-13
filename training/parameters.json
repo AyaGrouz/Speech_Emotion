@@ -1,0 +1,8 @@
+{
+    "training":
+    {
+        "loss"  : "categorical_crossentropy"   , 
+        "metric" : ["accuracy"],
+        "verbose": 0
+    }
+}
